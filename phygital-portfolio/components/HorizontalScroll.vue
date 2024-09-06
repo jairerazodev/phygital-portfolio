@@ -58,7 +58,7 @@ const sections = [
   },
   { 
     title: "CULTURAL MANAGEMENT", 
-    content: "Cultural manager and creative leader since 2008 with Bunka Collective, overseeing branding, identity, and image. Directed the cinema club 'La Otra Acera,' fostering a community-driven approach to independent cinema and audiovisual culture.",
+    content: "Cultural manager and creative leader since 2008 with Colectivo Bunka, overseeing branding, identity, and image. Directed the cinema club 'La Otra Acera,' fostering a community-driven approach to independent cinema and audiovisual culture.",
     image: "/assets/img/mona.png" 
   }
 ];
