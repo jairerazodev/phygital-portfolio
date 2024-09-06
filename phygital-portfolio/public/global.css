@@ -5,6 +5,12 @@
   box-sizing: border-box;
 }
 
+:root {
+  --title-font-size: 3rem; /* Duplicado de 3.25rem */
+  --title-margin-bottom: 1rem; /* Duplicado de 1.75rem */
+  --text-font-size: 2rem; /* Duplicado de 1.2rem */
+}
+
 /* Set up the basic page layout */
 html, body {
   height: 100%;
